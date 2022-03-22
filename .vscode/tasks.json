@@ -10,6 +10,14 @@
       "runOptions": {
         "runOn": "folderOpen"
       }
+    },
+    {
+      "label": "guard",
+      "type": "shell",
+      "command": "./bin/bundle exec guard",
+      "runOptions": {
+        "runOn": "folderOpen"
+      }
     }
   ]
 }
