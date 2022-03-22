@@ -6,15 +6,7 @@
     {
       "label": "server",
       "type": "shell",
-      "command": "./bin/rails server",
-      "runOptions": {
-        "runOn": "folderOpen"
-      }
-    },
-    {
-      "label": "guard",
-      "type": "shell",
-      "command": "./bin/bundle exec guard",
+      "command": "./bin/dev",
       "runOptions": {
         "runOn": "folderOpen"
       }
